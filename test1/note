@@ -1,0 +1,3 @@
+cv2.putText(img, str(int(fps)), (20,50), cv2.FONT_HERSHEY_PLAIN, 3
+    , (255, 0, 0), 3) // img, số frame, vị trí hiện số (x,y), 
+    font style #hersheyFont, size số, màu số hiện, độ dày số (bold)
